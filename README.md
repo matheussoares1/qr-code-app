@@ -87,11 +87,3 @@ Formulário simples onde o usuário cola o link e clica em **Gerar**.
 Um arquivo `qrcode.png` é baixado automaticamente.
 
 ---
-
-## 📜 Licença
-Este projeto está sob a licença MIT.  
-Sinta-se livre para usar, modificar e compartilhar.  
-
----
-
-👨‍💻 Desenvolvido com ❤️ usando **Flask + Docker**
